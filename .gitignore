@@ -1,0 +1,15 @@
+# Claude Code local configuration
+.claude/
+
+# Android build output
+*.apk
+*.aab
+*.aar
+build/
+.gradle/
+local.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
